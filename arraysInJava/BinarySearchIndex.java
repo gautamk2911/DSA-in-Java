@@ -34,7 +34,7 @@ public class BinarySearchIndex{
 		if(idx == -1 ) {
 			System.out.println(key+" is not present in array.");
 		} else {
-			System.out.println(key+" is present at position: "+idx);
+			System.out.println(key+" is present at index value: "+idx);
 		}
 	}
 }
